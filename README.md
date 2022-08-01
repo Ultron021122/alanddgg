@@ -5,8 +5,8 @@ Student and Developer
 ---------------------
 
 * 🌍  I'm based in Mexico
-* ✉️  You can contact me at [alandidiergon@gmail.com](mailto:alandidiergon@gmail.com)
 * 🧠  I'm learning Vue.js , React js, Tailwind CSS, Laravel and MongoDB
+* ✉️  You can contact me at [alandidiergon@gmail.com](mailto:alandidiergon@gmail.com)
 
 ### Skills
 
